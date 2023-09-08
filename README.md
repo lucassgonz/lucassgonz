@@ -6,8 +6,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-lucasg-07.vercel.app/api?username=lucasg-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-lucasg-07.vercel.app/api/top-langs/?username=lucasg-07&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasg-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasg-07&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
