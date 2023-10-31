@@ -10,16 +10,18 @@
     <p>🌱 I’m currently learning: React, Flutter, Java and Javascript</p>
     <p>🎶 Music style: Rock and Pop</p>
     <p>🎮 Gaming: Chess</p>
-    <p>⚡ Fun fact: Amo astrologia</p>
+    <p>🔭 Fun fact: I'm passionate about astrology</p>
   </div>
 </div>
+
+<br>
 
 <div align="flex">  
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasg-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasg-07&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasg-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasg-07&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
