@@ -2,17 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Gonzaga;I'm+16+years+old;I'm+from+Brazil;+Pursuing+an+Integrated+Technician+in+Informatics;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 10px;">
-    <p>Hello! I am a Web Developer at Huawei ICT Academy, where I have the opportunity to work with market technologies and constantly improve myself. In addition, I perform the function of Project Leader at NASH, an organization committed to creating a positive impact in the community, which allows me to apply my skills in a meaningful way. I am an S3/S6 student at UFC Casa de Cultura Britânica and I have the B1 Certificate in English by Cultura Inglesa. Furthermore, I am studying Integrated in Informatics P3/P6 at IFCE , where I am deepening my knowledge related to my area of expertise. I have a passion for olympics and intellectual challenges, constantly seeking to expand my horizon of knowledge. In my free time, I am a chess enthusiast, but I also find fun in playing video games and exploring scientific curiosities. I am constantly looking for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <p>🌱 I’m currently learning: React, Flutter, Java and Javascript</p>
-    <p>🎶 Music style: Rock and Pop</p>
-    <p>🎮 Gaming: Chess</p>
-    <p>🔭 Fun fact: I'm passionate about astrology</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <p>Hello! I am a Web Developer at Huawei ICT Academy, where I have the opportunity to work with market technologies and constantly improve myself. In addition, I perform the function of Project Leader at NASH, an organization committed to creating a positive impact in the community, which allows me to apply my skills in a meaningful way. I am an S3/S6 student at UFC Casa de Cultura Britânica and I have the B1 Certificate in English by Cultura Inglesa. Furthermore, I am studying Integrated in Informatics P3/P6 at IFCE, where I am deepening my knowledge related to my area of expertise. I have a passion for olympics and intellectual challenges, constantly seeking to expand my horizon of knowledge. In my free time, I am a chess enthusiast, but I also find fun in playing video games and exploring scientific curiosities. I am constantly looking for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
+    </td>
+    <td width="50%">
+      <p>🌱 I’m currently learning: React, Flutter, Java, and Javascript</p>
+      <p>🎶 Music style: Rock and Pop</p>
+      <p>🎮 Gaming: Chess</p>
+      <p>🔭 Fun fact: I'm passionate about astrology</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -28,7 +30,9 @@
 <a href = "mailto:gonluk0607@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/devlucasgonz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
+
+ <div align=center>
+   
  ### Main skills:
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
