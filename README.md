@@ -12,7 +12,7 @@ I am an S4/S6 student at UFC Casa de Cultura Britânica and hold a B1 Certificat
 In my free time, I am a chess enthusiast and enjoy playing video games and exploring scientific curiosities. Currently, I am writing a research project through LAPISCO and actively participating in innovation competitions. I am always striving for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
     </td>
     <td width="50%">
-      <p>🌱 I’m currently learning: React, Flutter, Java, and Javascript</p>
+      <p>🌱 I’m currently learning: Javascript, Python and Swift</p>
       <p>🎶 Music style: Rock and Pop</p>
       <p>🎮 Gaming: Chess</p>
       <p>🔭 Fun fact: I'm passionate about astrology</p>
