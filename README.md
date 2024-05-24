@@ -5,7 +5,11 @@
 <table>
   <tr>
     <td width="50%">
-      <p>Hello! I am a Web Developer at Huawei ICT Academy, where I have the opportunity to work with market technologies and constantly improve myself. In addition, I perform the function of Project Leader at NASH, an organization committed to creating a positive impact in the community, which allows me to apply my skills in a meaningful way. I am an S3/S6 student at UFC Casa de Cultura Britânica and I have the B1 Certificate in English by Cultura Inglesa. Furthermore, I am studying Integrated in Informatics P3/P6 at IFCE, where I am deepening my knowledge related to my area of expertise. I have a passion for olympics and intellectual challenges, constantly seeking to expand my horizon of knowledge. In my free time, I am a chess enthusiast, but I also find fun in playing video games and exploring scientific curiosities. I am constantly looking for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
+      <p>Hello! I am currently a Web Developer at Huawei ICT Academy, where I have the opportunity to work with market-leading technologies and continuously improve myself. I am also a Backend Developer and AI Researcher at Embrappi, working on cutting-edge projects and advancing the field of artificial intelligence, I am currently part of the Giselle Project. .
+
+I am an S4/S6 student at UFC Casa de Cultura Britânica and hold a B1 Certificate in English from Cultura Inglesa. Moreover, I am pursuing an Integrated Informatics program (P4/P6) at IFCE, where I am deepening my knowledge in my area of expertise. I am passionate about olympiads and intellectual challenges, constantly seeking to expand my horizons of knowledge.
+
+In my free time, I am a chess enthusiast and enjoy playing video games and exploring scientific curiosities. Currently, I am writing a research project through LAPISCO and actively participating in innovation competitions. I am always striving for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
     </td>
     <td width="50%">
       <p>🌱 I’m currently learning: React, Flutter, Java, and Javascript</p>
@@ -37,6 +41,8 @@
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -45,16 +51,22 @@
 
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />        
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 
 ### Studying in this moment:
 
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
