@@ -5,14 +5,16 @@
 <table>
   <tr>
     <td width="50%">
+
       <p>Hello! I am currently a Web Developer at Huawei ICT Academy, where I have the opportunity to work with market-leading technologies and continuously improve myself. I am also a Backend Developer and AI Researcher at Embrappi, working on cutting-edge projects and advancing the field of artificial intelligence, I am currently part of the Giselle Project. .
 
 I am an S4/S6 student at UFC Casa de Cultura Britânica and hold a B1 Certificate in English from Cultura Inglesa. Moreover, I am pursuing an Integrated Informatics program (P4/P6) at IFCE, where I am deepening my knowledge in my area of expertise. I am passionate about olympiads and intellectual challenges, constantly seeking to expand my horizons of knowledge.
 
+
 In my free time, I am a chess enthusiast and enjoy playing video games and exploring scientific curiosities. Currently, I am writing a research project through LAPISCO and actively participating in innovation competitions. I am always striving for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
     </td>
     <td width="50%">
-      <p>🌱 I’m currently learning: React, Flutter, Java, and Javascript</p>
+      <p>🌱 I’m currently learning: Javascript, Python and Swift</p>
       <p>🎶 Music style: Rock and Pop</p>
       <p>🎮 Gaming: Chess</p>
       <p>🔭 Fun fact: I'm passionate about astrology</p>
