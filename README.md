@@ -6,17 +6,17 @@
   <tr>
     <td width="50%">
 
-<p>Hello! I am currently a Web Developer at Huawei ICT Academy, where I have the opportunity to work with market-leading technologies and continuously improve myself. I am also a Backend Developer and AI Researcher at Embrappi, working on cutting-edge projects and advancing the field of artificial intelligence, I am currently part of the Giselle Project. .
+<p> I am a Backend Developer and AI Researcher at Polo de Inovação do IFCE, working on cutting-edge projects and advancing the field of artificial intelligence, I am currently part of the Giselle Project. I'm doing a PIBIC-JR project in partnership with Lapisco, the supervisor of my project is Roger M. Sarmento. In this project, I need to develop a mobile application where the user will send a selfie, and based on this photo, I will use AI to classify the severity of the acne on the user's face into five levels.
 
-I am an S4/S6 student at UFC Casa de Cultura Britânica and hold a B1 Certificate in English from Cultura Inglesa. Moreover, I am pursuing an Integrated Informatics program (P4/P6) at IFCE, where I am deepening my knowledge in my area of expertise. I am passionate about olympiads and intellectual challenges, constantly seeking to expand my horizons of knowledge.
+I am an S5/S7 student at UFC Casa de Cultura Britânica and hold a B1 Certificate in English from Cultura Inglesa. Moreover, I am pursuing an Integrated Informatics program (P5/P6) at IFCE, where I am deepening my knowledge in my area of expertise. I am passionate about olympiads and intellectual challenges, constantly seeking to expand my horizons of knowledge.
 
 
 In my free time, I am a chess enthusiast and enjoy playing video games and exploring scientific curiosities. Currently, I am writing a research project through LAPISCO and actively participating in innovation competitions. I am always striving for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
     <td width="50%">
-      <p>🌱 I’m currently learning: Javascript, Python and Swift</p>
+      <p>🌱 I’m currently learning: Flutter, Python and AI techniques</p>
       <p>🎶 Music style: Rock and Pop</p>
-      <p>🎮 Gaming: Chess</p>
-      <p>🔭 Fun fact: I'm passionate about astrology</p>
+      <p>🎮 Gaming: Chess and FPS</p>
+      <p>🔭 Fun fact: I'm passionate about astronomy</p>
     </td>
   </tr>
 </table>
@@ -27,8 +27,8 @@ In my free time, I am a chess enthusiast and enjoy playing video games and explo
 
 
 <div align="center">  
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasg-07&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasg-07&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucassgonz&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
+  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassgonz&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
