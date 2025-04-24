@@ -1,23 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Gonzaga;I'm+17+years+old;I'm+from+Fortaleza;+Studying+Integrado+em+Informática+at+IFCE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Gonzaga;+Studying+Computer+Technician+at+IFCE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <table>
   <tr>
     <td width="50%">
 
-<p> I am a Backend Developer and AI Researcher at Polo de Inovação do IFCE, working on cutting-edge projects and advancing the field of artificial intelligence, I am currently part of the Giselle Project. I'm doing a PIBIC-JR project in partnership with Lapisco, the supervisor of my project is Roger M. Sarmento. In this project, I need to develop a mobile application where the user will send a selfie, and based on this photo, I will use AI to classify the severity of the acne on the user's face into five levels.
-
-I am an S5/S7 student at UFC Casa de Cultura Britânica and hold a B1 Certificate in English from Cultura Inglesa. Moreover, I am pursuing an Integrated Informatics program (P5/P6) at IFCE, where I am deepening my knowledge in my area of expertise. I am passionate about olympiads and intellectual challenges, constantly seeking to expand my horizons of knowledge.
-
-
-In my free time, I am a chess enthusiast and enjoy playing video games and exploring scientific curiosities. Currently, I am writing a research project through LAPISCO and actively participating in innovation competitions. I am always striving for improvement and eager to contribute to innovative projects. Let’s connect and collaborate!</p>
-    <td width="50%">
-      <p>🌱 I’m currently learning: Flutter, Python and AI techniques</p>
-      <p>🎶 Music style: Rock and Pop</p>
-      <p>🎮 Gaming: Chess and FPS</p>
-      <p>🔭 Fun fact: I'm passionate about astronomy</p>
-    </td>
+<p> Software Developer with experience as a Fullstack Developer and Researcher in socially impactful and innovation-driven projects. Proficient in React.js, Node.js, Python, Docker, PostgreSQL, and agile methodologies such as Scrum and TDD. Works at IFCE as a scholarship researcher on projects integrating AI, mobile development, and IoT. Also serves as a technical instructor in Linux and system infrastructure for competitions like the Huawei ICT Competition, where he was both a national and global finalist.
+</p>
   </tr>
 </table>
 
@@ -61,10 +51,10 @@ In my free time, I am a chess enthusiast and enjoy playing video games and explo
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
+
 ### Studying in this moment:
 
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-<img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
