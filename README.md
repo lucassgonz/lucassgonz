@@ -16,10 +16,6 @@
 <div align="flex">  
 
 
-<div align="center">  
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucassgonz&show_icons=true&count_private=true&hide_border=false&border_color=4169E1&title_color=0000FF&icon_color=00CED1&text_color=4169E1&bg_color=0d1117" alt="Lucas Gonzaga github stats" /> 
-  <img width="75%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassgonz&layout=compact&hide_border=true&title_color=0000FF&text_color=4169E1&bg_color=0d1117" />
-</div>
 
 <div align="center"> 
 <a href = "mailto:gonluk0607@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
