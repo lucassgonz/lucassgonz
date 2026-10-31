@@ -1,54 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+## Lucas Gonzaga Andrade
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas+Gonzaga;Integration+Developer+%26+AI+Coach;Building+APIs,+pipelines+%26+automations;Be+welcome!+:%29)](https://git.io/typing-svg)
+Integrations Developer at OpenWorks · Fortaleza, Brazil
 
-<p align="center">
-  Software Developer focused on <b>backend integrations</b>, <b>AI-powered automation</b>, and <b>data pipelines</b>. Currently <b>Integration Developer & AI Implementation Coach at OpenWorks</b> — designing multi-step workflows, third-party API connectors, and AI agent systems that turn unstructured inputs into reliable, structured outputs.<br><br>
-  Strong in <b>Python</b>, <b>Node.js</b>, <b>PostgreSQL</b>, <b>REST APIs</b>, and tools like <b>n8n</b>, <b>Zapier</b>, and <b>Make</b>. Background in AI research and fullstack delivery; <b>2nd Prize — Huawei ICT Competition Global Final (Computing Track)</b>.
-</p>
+I build automations, API integrations and AI agents for business operations. Most of my work connects CRMs, databases, LLMs and third-party APIs, and then keeps those workflows running in production.
 
-<br>
+<a href="mailto:lucasgdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-lucasgdeveloper%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/devlucasgonz/"><img src="https://img.shields.io/badge/LinkedIn-devlucasgonz-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<div align="center">
+### Experience
 
-<a href="mailto:gonluk0607@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/devlucasgonz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- **OpenWorks** (2026 – present): multi-step automations connecting business tools, LLMs and REST APIs; lead-generation flows with HubSpot, Apollo and Serper; AI assistants and conversational agents.
+- **Accodal** (2025 – 2026): 20+ automations for recruitment, HR and billing, built with n8n, Make, Zapier, Supabase, Zoho CRM and Stripe.
+- **Huawei ICT Academy – IFCE** (2023 – 2026): computing mentor for openEuler and openGauss; built an attendance system with Node.js, React, PostgreSQL and Docker.
+- **Polo de Inovação IFCE / EMBRAPII** (2024 – 2025): REST APIs in Python and JavaScript, React interfaces, and the Giselle mental-health chatbot.
+- **Apple Developer Academy | IFCE** (2024 – 2025): iOS apps in Swift and SwiftUI; led a team of four.
 
-### What I'm working on
+### Projects
 
-- **OpenWorks** — Integration Developer & AI Implementation Coach (integrations, AI agents, live workflow reliability)
-- **Automation & APIs** — n8n / Zapier / Make, Stripe & third-party connectors, production debugging
-- **Data & AI pipelines** — Python backends, PostgreSQL, structured transforms for AI-ready data
+- **Sonara**: recruitment engine using LLM-based candidate profiling and vector search. 3rd place, Hack-Nation Global AI Hackathon.
+- **PlantAI**: crop diagnostics platform using computer vision on openEuler. Huawei ICT Competition, national phase.
+- **Cashew Care**: IoT and AI platform for real-time crop diagnostics. 3rd place, Huawei Developer Competition LATAM.
+- **Giselle**: conversational agent for early screening of depressive symptoms in older adults (Botpress, Python).
+- **AcneApp**: computer-vision model that classifies acne from selfies (LAPISCO research lab).
 
-### Main skills
+### Stack
 
-<img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="40" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="40" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="40" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img width="40" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img width="40" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+**Languages:** Python, JavaScript, TypeScript, Swift
+**Backend:** Node.js, Express, REST APIs, webhooks
+**Data:** PostgreSQL, MySQL, Supabase, Airtable
+**Automation:** n8n, Make, Zapier
+**AI:** Claude API, LLM agents, RAG, PyTorch, TensorFlow
+**Frontend:** React, SwiftUI
+**Infrastructure:** Docker, Git, Linux, Huawei Cloud
 
-### Tools & platforms
+### Recognition
 
-<img width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img width="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img width="40" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img width="40" alt="Swift" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img width="40" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-
-### Currently leveling up
-
-<img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="40" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img width="40" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<p><i>AI agents · ETL / data ingestion · production integrations · cloud fundamentals (GCP)</i></p>
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
+- 2nd Prize, Huawei ICT Competition Global Final, Computing Track (Shenzhen, 2025)
+- 2nd Place, Huawei ICT Competition Latin America Regional Final (2025)
+- 3rd Place, Hack-Nation Global AI Hackathon (2025)
+- 3rd Place, Huawei Developer Competition LATAM (2025)
