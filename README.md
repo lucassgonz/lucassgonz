@@ -15,7 +15,7 @@
 
 <p align="center"><img src="assets/github.svg" width="100%" alt="GitHub stats and contribution activity, redrawn nightly"></p>
 
-<p align="center"><img src="assets/career.svg" width="100%" alt="Experience: OpenWorks, Accodal, LAPISCO, Polo de Inovação IFCE, Apple Developer Academy, Huawei ICT Academy"></p>
+<p align="center"><img src="assets/career.svg" width="100%" alt="Experience and education: Technologist Degree in Artificial Intelligence at IFCE (since 2026.2), OpenWorks, Accodal, LAPISCO, Polo de Inovação IFCE, Apple Developer Academy, Huawei ICT Academy"></p>
 
 <p align="center"><img src="assets/projects.svg" width="100%" alt="Projects: Sonara, PlantAI, Cashew Care, Giselle"></p>
 

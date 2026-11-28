@@ -31,6 +31,8 @@ const highlights = [
 ];
 
 const career = [
+  { dates: '2026.2 — now', org: 'IFCE', role: 'Technologist Degree in Artificial Intelligence', color: 'purple', now: true,
+    note: 'undergraduate studies in AI, started in the 2nd semester of 2026' },
   { dates: 'Jun 2026 — now', org: 'OpenWorks', role: 'Integrations Developer', color: 'green', now: true,
     note: '3 lead-gen automations in production (HubSpot, Apollo, Serper) · AI agents' },
   { dates: 'Jul 2025 — Jun 2026', org: 'Accodal', role: 'Low-Code & Integrations Developer', color: 'coral',
